@@ -138,7 +138,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        caption: |
+        description: |
                     - HTML5
                     -	CSS
                     -	Javascript
