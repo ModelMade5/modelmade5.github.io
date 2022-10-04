@@ -169,7 +169,7 @@ content:
       - I am a big believer of giving back to my community and in that pursuit i do a lot of voluenter work.
   - title:
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content:  # this will include new lines to allow paragraphs
             <p align="center"><img src="https://github.com/ModelMade5/modelmade5.github.io/blob/main/images/landscape-trees.jpg" /></p>
 
 # Footer
