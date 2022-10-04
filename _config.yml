@@ -63,7 +63,21 @@ content:
         description: | # this will include new lines to allow paragraphs
             -	learned about basic elements of frontend web development.
             -	Created responsive, accessible, and beautiful layouts
-
+            -	Created static HTML, CSS and javascript portfolio sites and landing pages.
+            -	Learned about complex HTML forms with landing pages
+            -	Learned about Javascript functions, and their scope.
+  - title: Skills
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        description: |
+                    - HTML5
+                    -	CSS
+                    -	Javascript
+                    -	Jquery
+                    -	Wordpress
+                    -	Front end development
+                    -	Gimp
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
