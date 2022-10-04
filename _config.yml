@@ -165,7 +165,12 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in web development i also enjoy creating youtube content. [this is my youtube video](https://youtu.be/HvFs71SYcJk)  
-      ![god](images/landscape-trees.jpg "god")
+  - title:
+    layout: text
+    content:
+      - layout: top-middle
+        description: |
+            ![god](images/landscape-trees.jpg "god")
 
 # Footer
 footer_show_references: true
