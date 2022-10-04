@@ -100,7 +100,7 @@ content:
           This is a photo gallery I got to work a lot with HTML and CSS. Watching how things change images and make images usable. Like a clickable link!  
       - layout: top-middle
         title: Chocolate Chip Cookies 
-        link: modelmade5.github.io/projects/chocolatechipcookies.html
+        link: modelmade5.github.io/projects/Chocolatechipcookies.html
         # link_text: Project Website
         additional_links:
           - title:  How to make chocolate chip cookies
