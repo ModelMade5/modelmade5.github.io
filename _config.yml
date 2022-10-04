@@ -131,7 +131,7 @@ content:
         sub_title: Enginerring Assistant
         caption: January 2016 - July 2020
         description: | # this will include new lines to allow paragraphs
-        [this is my youtube video for Macbee](https://youtu.be/HvFs71SYcJk).
+              [this is my youtube video for Macbee](https://youtu.be/HvFs71SYcJk).
             -	Assisted Resident Engineer in daily operations.
             -	Breaking down sections of pipe drawings into defined individual drafted pieces using Acorn software.
             -	Observed preconstruction meetings between engineers and contractors.
