@@ -164,7 +164,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Look at this cool image  
+      Alongside my interests in web development i also enjoy creating youtube content. [this is my youtube video](https://youtu.be/HvFs71SYcJk)  
       ![god](images/landscape-trees.jpg "god")
 
 # Footer
