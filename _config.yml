@@ -48,7 +48,7 @@ content:
             icon: fab fa-github
             url: modelmade5.github.io/projects
         quote: >
-          This was my second project. 
+          This was my second project. I used basic CSS to build a Cafe Menu
         description: | # this will include new lines to allow paragraphs
           description of the project
       - layout: top-middle
@@ -59,7 +59,7 @@ content:
           - title:  CSS Color Marker
             icon: fab fa-github
         quote: >
-          This was my 3rd project. 
+          This was my 3rd project. This project emphasis on building a set of colored markers
         description: | # this will include new lines to allow paragraphs
           description of the project
       - layout: top-middle
@@ -70,9 +70,20 @@ content:
           - title:  Registration Form
             icon: fab fa-github
         quote: >
-          This was my 4th project. 
+          This was my 4th project. In this project i learned how to create a Registration form
         description: | # this will include new lines to allow paragraphs
           description of the project    
+      - layout: top-middle
+        title: Rothko Painting
+        link: modelmade5.github.io/projects/rothko.html
+        # link_text: Project Website
+        additional_links:
+          - title:  Rothko Painting
+            icon: fab fa-github
+        quote: >
+          This was my 5th project. I learned the CSS box model by building a rothko painting
+        description: | # this will include new lines to allow paragraphs
+          description of the project     
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
