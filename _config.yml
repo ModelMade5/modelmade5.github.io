@@ -137,15 +137,21 @@ content:
   - title: Skills
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         description: |
-                    - HTML5                       • Client Relationship Management
-                    -	CSS                         • Website Creation
-                    -	Javascript                  • Website Maintenance
-                    -	Jquery                      • Drafting/Design
-                    -	Wordpress                   • Manual Drafting           
+                    - HTML5                    
+                    -	CSS                         
+                    -	Javascript                  
+                    -	Jquery                      
+                    -	Wordpress                              
                     -	Front end development
-                    -	Gimp         
+                    -	Gimp
+                    -	Client Relationship Management
+                    -	Website Creation
+                    -	Website Maintenance
+                    -	Drafting/Design
+                    -	Manual Drafting
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -167,8 +173,9 @@ content:
       - I am a big believer of giving back to my community and in that pursuit i do a lot of voluenter work.
   - title:
     layout: text
-    content: | # this will include new lines to allow paragraphs
-            ![god](images/landscape-trees.jpg "god")
+    content: 
+          - layout: top-middle # this will include new lines to allow paragraphs
+            "![god](images/landscape-trees.jpg "god")"
 
 # Footer
 footer_show_references: true
