@@ -33,7 +33,7 @@ content:
         additional_links:
           - title:  Cat APP
             icon: fab fa-github
-            url: modelmade5.github.io/projects
+            url: github.com/ModelMade5/modelmade5.github.io/tree/main/projects
         quote: >
           This was my first project. I learned HTML basics while creating a layout for application on cats.
         description: | # this will include new lines to allow paragraphs
@@ -84,14 +84,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           description of the project
       - layout: top-middle
-        title: Photo Gallary
+        title: Photo Gallery
         link: modelmade5.github.io/projects/gallary.html
         # link_text: Project Website
         additional_links:
-          - title:  Photo Gallary
+          - title:  Photo Gallery
             icon: fab fa-github
         quote: >
-          This was my 6th project. I learned the usage of CSS flexbox by building a photo gallary
+          This was my 6th project. I learned the usage of CSS flexbox by building a photo gallery
         description: | # this will include new lines to allow paragraphs
           description of the project     
   - title: Experience # Title for the section
