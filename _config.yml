@@ -115,7 +115,6 @@ content:
         link: osbornfoodservice.com
         sub_title: Direct Sales Rep
         caption: July 2020 - October 2021
-        quote: >
         description: | # this will include new lines to allow paragraphs
             -	Identify customer needs / wants utilizing sales skills.
             -	Attend daily sales / training meetings and coaching sessions
@@ -127,7 +126,6 @@ content:
         link: mcabeeinc.com
         sub_title: Enginerring Assistant
         caption: January 2016 - July 2020
-        quote: >
         description: | # this will include new lines to allow paragraphs
             -	Assisted Resident Engineer in daily operations.
             -	Breaking down sections of pipe drawings into defined individual drafted pieces using Acorn software.
@@ -140,7 +138,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        description: |
+        caption: |
                     - HTML5
                     -	CSS
                     -	Javascript
@@ -148,6 +146,13 @@ content:
                     -	Wordpress
                     -	Front end development
                     -	Gimp
+        description: |
+                    -	Client Relationship Management
+                    -	Website Creation
+                    -	Website Maintenance
+                    -	Drafting/Design
+                    -	Manual Drafting
+                
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
