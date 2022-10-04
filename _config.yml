@@ -97,7 +97,19 @@ content:
         quote: >
           This was my 6th project. I learned the usage of CSS flexbox by building a photo gallery
         description: | # this will include new lines to allow paragraphs
-          This is a photo gallery I got to work a lot with HTML and CSS. Watching how things change images and make images usable. Like a clickable link!   
+          This is a photo gallery I got to work a lot with HTML and CSS. Watching how things change images and make images usable. Like a clickable link!  
+        - layout: top-middle
+        title: Chocolate Chip Cookies 
+        link: modelmade5.github.io/projects/chocolatechipcookies.html
+        # link_text: Project Website
+        additional_links:
+          - title:  How to make chocolate chip cookies
+            icon: fab fa-github
+            url: github.com/ModelMade5/modelmade5.github.io/tree/main/projects
+        quote: >
+          This was my 7th project. I learned the usage of CSS flexbox by building a photo gallery
+        description: | # this will include new lines to allow paragraphs
+          This is a photo gallery I got to work a lot with HTML and CSS. Watching how things change images and make images usable. Like a clickable link!
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
