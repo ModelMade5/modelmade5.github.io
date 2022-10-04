@@ -94,7 +94,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Look at this cool image  
-      images/landscape-trees.jpg
+      ![god](images/landscape-trees.jpg "god")
 
 # Footer
 footer_show_references: true
