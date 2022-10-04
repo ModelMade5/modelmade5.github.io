@@ -45,7 +45,7 @@ content:
         additional_links:
           - title:  Cafe Menu
             icon: fab fa-github
-            url: modelmade5.github.io/projects
+            url: github.com/ModelMade5/modelmade5.github.io/tree/main/projects
         quote: >
           This was my second project. I used basic CSS to build a Cafe Menu
         description: | # this will include new lines to allow paragraphs
@@ -57,6 +57,7 @@ content:
         additional_links:
           - title:  CSS Color Marker
             icon: fab fa-github
+            url: github.com/ModelMade5/modelmade5.github.io/tree/main/projects
         quote: >
           This was my 3rd project. This project emphasis on building a set of colored markers
         description: | # this will include new lines to allow paragraphs
@@ -68,6 +69,7 @@ content:
         additional_links:
           - title:  Registration Form
             icon: fab fa-github
+            url: github.com/ModelMade5/modelmade5.github.io/tree/main/projects
         quote: >
           This was my 4th project. In this project i learned how to create a Registration form
         description: | # this will include new lines to allow paragraphs
@@ -79,6 +81,7 @@ content:
         additional_links:
           - title:  Rothko Painting
             icon: fab fa-github
+            url: github.com/ModelMade5/modelmade5.github.io/tree/main/projects
         quote: >
           This was my 5th project. I learned the CSS box model by building a rothko painting
         description: | # this will include new lines to allow paragraphs
@@ -90,6 +93,7 @@ content:
         additional_links:
           - title:  Photo Gallery
             icon: fab fa-github
+            url: github.com/ModelMade5/modelmade5.github.io/tree/main/projects
         quote: >
           This was my 6th project. I learned the usage of CSS flexbox by building a photo gallery
         description: | # this will include new lines to allow paragraphs
@@ -175,7 +179,8 @@ content:
     layout: text
     content: 
           - layout: top-middle # this will include new lines to allow paragraphs
-            "![god](images/landscape-trees.jpg "god")"
+            quote: > 
+            ![god](images/landscape-trees.jpg "god")
 
 # Footer
 footer_show_references: true
