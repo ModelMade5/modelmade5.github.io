@@ -179,8 +179,7 @@ content:
     layout: text
     content: 
           - layout: top-middle # this will include new lines to allow paragraphs
-            quote: > 
-            ![god](images/landscape-trees.jpg "god")
+            image: images/landscape-trees.jpg
 
 # Footer
 footer_show_references: true
