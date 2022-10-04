@@ -174,8 +174,8 @@ content:
       - I am a big believer of giving back to my community and in that pursuit i do a lot of voluenter work.
   - title:
     layout: text
-    content:  # this will include new lines to allow paragraphs
-            <p align="center"><img src="https://github.com/ModelMade5/modelmade5.github.io/blob/main/images/landscape-trees.jpg" /></p>
+    content: | # this will include new lines to allow paragraphs
+            ![god](images/landscape-trees.jpg "god"){ width="800" height="600" style="display: block; margin: 0 auto" }
 
 # Footer
 footer_show_references: true
