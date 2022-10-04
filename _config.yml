@@ -66,6 +66,19 @@ content:
             -	Created static HTML, CSS and javascript portfolio sites and landing pages.
             -	Learned about complex HTML forms with landing pages
             -	Learned about Javascript functions, and their scope.
+      - layout: left
+        title: MERCHANT/OSBORN BROTHERS INC
+        link: www.osbornfoodservice.com
+        sub_title: Direct Sales Rep
+        caption: July 2020 – October 2021
+        quote: >
+          Learning web development basics as well as getting fimilar with high level UX/UI design concepts
+        description: | # this will include new lines to allow paragraphs
+            -	Identify customer needs / wants utilizing sales skills.
+            -	Attend daily sales / training meetings and coaching sessions
+            -	Strong interpersonal skills to build rapport with prospective and existing customers
+            -	Strong interpersonal skills to build rapport with prospective and existing customers.
+            -	Reporting to territory manager about sales and potential clients.
   - title: Skills
     layout: list # Type of content section (list/text)
     content:
