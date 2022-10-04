@@ -114,7 +114,7 @@ content:
         title: MERCHANT/OSBORN BROTHERS INC
         link: osbornfoodservice.com
         sub_title: Direct Sales Rep
-        caption: July 2020 – October 2021
+        caption: July 2020 - October 2021
         quote: >
         description: | # this will include new lines to allow paragraphs
             -	Identify customer needs / wants utilizing sales skills.
@@ -164,7 +164,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in web development i also enjoy creating youtube content. [this is my youtube video](https://youtu.be/HvFs71SYcJk)  
+      - Alongside my interests in web development i also enjoy creating youtube content. [this is my youtube video for Macbee](https://youtu.be/HvFs71SYcJk).
+      - I also like voice recording and providing my voice skills to record audio books.
+      - I am a big believer of giving back to my community and in that pursuit i do a lot of voluenter work.
   - title:
     layout: text
     content:
