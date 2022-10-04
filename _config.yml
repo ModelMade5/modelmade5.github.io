@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Holly Hatcher
-title: Inspiring Web Developer
+title: Aspiring Web Developer
 email: hatcherparashar@gmail.com
 
 # Dark Mode (true/false/never)
@@ -27,10 +27,8 @@ linkedin_username: jameswgrant
 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  Hi, my name's Hollyt and I'm an aspiring web developer. I am going through a career transformation and while looking for alternate career i came across web development and instantly fell in love with it. I am currently enrolled in a coding bootcamp with code tenderloin and i am also doing self teaching through udemy and freecodecamp. 
+  I am Highly dependable, determined, and dynamic professional with extensive experience in sales and engineering assistantance. Currently looking to a part of competitive team to gain experience an enhance my skills as a web developer.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -38,7 +36,6 @@ content:
       - layout: top-middle
         title: Cat APP
         link: modelmade5.github.io/projects/catapp.html
-        # link_text: Project Website
         additional_links:
           - title:  Cat APP
             icon: fab fa-github
@@ -47,10 +44,9 @@ content:
           This was my first project. I learned HTML basics while creating a layout for application on cats.
         description: | # this will include new lines to allow paragraphs
           <!--project description-->
-        - layout: top-middle
+      - layout: top-middle
         title: Cafe Menu
         link: modelmade5.github.io/projects/cafemenu.html
-        # link_text: Project Website
         additional_links:
           - title:  Cafe Menu
             icon: fab fa-github
