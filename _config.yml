@@ -66,31 +66,31 @@ content:
         caption: March 2022 - Present
         quote: >
           Learning web development basics as well as getting fimilar with high level UX/UI design concepts
-        description: |
-            •	learned about basic elements of frontend web development.
-            •	Created responsive, accessible, and beautiful layouts
-            •	Created static HTML, CSS and javascript portfolio sites and landing pages.
-            •	Learned about complex HTML forms with landing pages
-            •	Learned about Javascript functions, and their scope.
+        description: 
+            -	learned about basic elements of frontend web development.
+            -	Created responsive, accessible, and beautiful layouts
+            -	Created static HTML, CSS and javascript portfolio sites and landing pages.
+            -	Learned about complex HTML forms with landing pages
+            -	Learned about Javascript functions, and their scope.
  - title: Skills
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         description:
-                    •	HTML5
-                    •	CSS
-                    •	Javascript
-                    •	Jquery
-                    •	Wordpress
-                    •	Front end development
-                    •	Gimp
+                    - HTML5
+                    -	CSS
+                    -	Javascript
+                    -	Jquery
+                    -	Wordpress
+                    -	Front end development
+                    -	Gimp
       - layout: right
         description:
-                    •	Client Relationship Management
-                    •	Website Creation
-                    •	Website Maintenance
-                    •	Drafting/Design
-                    •	Manual Drafting
+                    -	Client Relationship Management
+                    -	Website Creation
+                    -	Website Maintenance
+                    -	Drafting/Design
+                    -	Manual Drafting
   - title: Education 
     layout: list 
     content:
