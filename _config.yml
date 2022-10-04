@@ -38,7 +38,18 @@ content:
           This was my first project. I learned HTML basics while creating a layout for application on cats.
         description: | # this will include new lines to allow paragraphs
           description of the project
-
+      - layout: top-middle
+        title: Cafe Menu
+        link: modelmade5.github.io/projects/cafemenu.html
+        # link_text: Project Website
+        additional_links:
+          - title:  Cafe Menu
+            icon: fab fa-github
+            url: modelmade5.github.io/projects
+        quote: >
+          This was my second project. 
+        description: | # this will include new lines to allow paragraphs
+          description of the project
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
