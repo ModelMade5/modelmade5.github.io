@@ -37,7 +37,7 @@ content:
         quote: >
           This was my first project. I learned HTML basics while creating a layout for application on cats.
         description: | # this will include new lines to allow paragraphs
-          description of the project
+          I really like working on this cat app. Being able to change all the list and buttons really helped open my eyes to different capabilities of web design. It gave me a feel of diversity.
       - layout: top-middle
         title: Cafe Menu
         link: modelmade5.github.io/projects/cafemenu.html
@@ -49,7 +49,7 @@ content:
         quote: >
           This was my second project. I used basic CSS to build a Cafe Menu
         description: | # this will include new lines to allow paragraphs
-          description of the project
+          I truly enjoyed building this café menu, watching everything come to life excited me! I hope it excites you as well check it out!
       - layout: top-middle
         title: CSS Color Marker
         link: modelmade5.github.io/projects/coloredmarkers.html
@@ -61,7 +61,7 @@ content:
         quote: >
           This was my 3rd project. This project emphasis on building a set of colored markers
         description: | # this will include new lines to allow paragraphs
-          description of the project
+          During this project I got to play around with color schemes with blending and adding. 
       - layout: top-middle
         title: Registration Form
         link: modelmade5.github.io/projects/registration.html
@@ -73,7 +73,7 @@ content:
         quote: >
           This was my 4th project. In this project i learned how to create a Registration form
         description: | # this will include new lines to allow paragraphs
-          description of the project    
+          I really liked working on this registration form I feel like this is very useful for future web designs.    
       - layout: top-middle
         title: Rothko Painting
         link: modelmade5.github.io/projects/rothko.html
@@ -85,7 +85,7 @@ content:
         quote: >
           This was my 5th project. I learned the CSS box model by building a rothko painting
         description: | # this will include new lines to allow paragraphs
-          description of the project
+          This was a wonderful project on to learn a lot more CSS take a look!
       - layout: top-middle
         title: Photo Gallery
         link: modelmade5.github.io/projects/gallary.html
@@ -97,7 +97,7 @@ content:
         quote: >
           This was my 6th project. I learned the usage of CSS flexbox by building a photo gallery
         description: | # this will include new lines to allow paragraphs
-          description of the project     
+          This is a photo gallery that I made check it out!     
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -131,7 +131,7 @@ content:
         sub_title: Enginerring Assistant
         caption: January 2016 - July 2020
         description: | # this will include new lines to allow paragraphs
-            - A preview of my what I did at McAbee[this is my youtube video for Macbee](https://youtu.be/HvFs71SYcJk).
+            - A preview of my what I did at McAbee [this is my youtube video for Macbee](https://youtu.be/HvFs71SYcJk).
             -	Assisted Resident Engineer in daily operations.
             -	Breaking down sections of pipe drawings into defined individual drafted pieces using Acorn software.
             -	Observed preconstruction meetings between engineers and contractors.
