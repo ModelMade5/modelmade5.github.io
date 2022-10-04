@@ -15,12 +15,13 @@ darkmode: false
 
 # Social links
 github_username:  modelmade5
-linkedin_username: hollyhatcher
+linkedin_username: hollyhatcher205
 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Holly and I'm an aspiring web developer. I am going through a career transformation and while looking for alternate career i came across web development and instantly fell in love with it. I am currently enrolled in a coding bootcamp with code tenderloin and i am also doing self teaching through udemy and freecodecamp. 
   
+
   I am Highly dependable, determined, and dynamic professional with extensive experience in sales and engineering assistantance. Currently looking to a part of competitive team to gain experience an enhance my skills as a web developer.
 content:
   - title: Projects # Title for the section
@@ -52,7 +53,7 @@ content:
           description of the project
       - layout: top-middle
         title: CSS Color Marker
-        link: modelmade5.github.io/projects/colordmarkers.html
+        link: modelmade5.github.io/projects/coloredmarkers.html
         # link_text: Project Website
         additional_links:
           - title:  CSS Color Marker
@@ -61,6 +62,17 @@ content:
           This was my 3rd project. 
         description: | # this will include new lines to allow paragraphs
           description of the project
+      - layout: top-middle
+        title: Registration Form
+        link: modelmade5.github.io/projects/registration.html
+        # link_text: Project Website
+        additional_links:
+          - title:  Registration Form
+            icon: fab fa-github
+        quote: >
+          This was my 4th project. 
+        description: | # this will include new lines to allow paragraphs
+          description of the project    
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
