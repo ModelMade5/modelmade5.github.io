@@ -85,7 +85,7 @@ content:
         quote: >
           This was my 5th project. I learned the CSS box model by building a rothko painting
         description: | # this will include new lines to allow paragraphs
-          This was a wonderful project on to learn a lot more CSS take a look!
+          This was a wonderful project to work on I got to learn a little bit of background color margin filter box shadow border radius things of that nature.
       - layout: top-middle
         title: Photo Gallery
         link: modelmade5.github.io/projects/gallary.html
@@ -97,12 +97,12 @@ content:
         quote: >
           This was my 6th project. I learned the usage of CSS flexbox by building a photo gallery
         description: | # this will include new lines to allow paragraphs
-          This is a photo gallery that I made check it out!     
+          This is a photo gallery I got to work a lot with HTML and CSS. Watching how things change images and make images usable. Like a clickable link!   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: WEB DEVELOPMENT BOOTCAMP (UDEMY / CODE TENDERLOIN)
+        title: WEB DEVELOPMENT BOOTCAMP (UDEMY / CODE TENDERLOIN / Free Code Camp)
         link: codetenderloin.org
         sub_title: Student
         caption: March 2022 - Present
