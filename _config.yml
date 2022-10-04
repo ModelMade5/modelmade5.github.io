@@ -169,10 +169,8 @@ content:
       - I am a big believer of giving back to my community and in that pursuit i do a lot of voluenter work.
   - title:
     layout: list
-    content:
-      - layout: top-middle
-        description: |
-            ![god](images/landscape-trees.jpg "god")
+    content: |
+            <p align="center"><img src="https://github.com/ModelMade5/modelmade5.github.io/blob/main/images/landscape-trees.jpg" /></p>
 
 # Footer
 footer_show_references: true
