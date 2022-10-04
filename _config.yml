@@ -68,7 +68,7 @@ content:
             -	Learned about Javascript functions, and their scope.
       - layout: left
         title: MERCHANT/OSBORN BROTHERS INC
-        link: www.osbornfoodservice.com
+        link: osbornfoodservice.com
         sub_title: Direct Sales Rep
         caption: July 2020 – October 2021
         quote: >
@@ -79,6 +79,21 @@ content:
             -	Strong interpersonal skills to build rapport with prospective and existing customers
             -	Strong interpersonal skills to build rapport with prospective and existing customers.
             -	Reporting to territory manager about sales and potential clients.
+      - layout: left
+        title: MCBEE CONSTRUCTION
+        link: mcabeeinc.com
+        sub_title: Enginerring Assistant
+        caption: January 2016 - July 2020
+        quote: >
+          Learning web development basics as well as getting fimilar with high level UX/UI design concepts
+        description: | # this will include new lines to allow paragraphs
+            -	Assisted Resident Engineer in daily operations.
+            -	Breaking down sections of pipe drawings into defined individual drafted pieces using Acorn software.
+            -	Observed preconstruction meetings between engineers and contractors.
+            -	Ensured safe working conditions and contributed accurate feedback to Resident Engineer.
+            -	Conducted general operations, responded to emails, answered phone calls.
+            -	Received and checked parts for accuracy.
+            -	Read Prints, Design and Layout
   - title: Skills
     layout: list # Type of content section (list/text)
     content:
