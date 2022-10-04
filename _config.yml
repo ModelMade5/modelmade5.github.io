@@ -93,12 +93,6 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-          Alongside my interests in web development i also enjoy creating youtube content.
-      
-          I also like voice recording and providing my voice skills to record audio books as well as voicing cartoons.
-
-          I am a big believer of giving back to my community and in that pursuit i do a lot of voluenter work which involves
-
       Look at this cool image  
       images/landscape-trees.jpg
 
