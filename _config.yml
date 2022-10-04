@@ -27,7 +27,7 @@ linkedin_username: jameswgrant
 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Hollyt and I'm an aspiring web developer. I am going through a career transformation and while looking for alternate career i came across web development and instantly fell in love with it. I am currently enrolled in a coding bootcamp with code tenderloin and i am also doing self teaching through udemy and freecodecamp. 
+  Hi, my name's Holly and I'm an aspiring web developer. I am going through a career transformation and while looking for alternate career i came across web development and instantly fell in love with it. I am currently enrolled in a coding bootcamp with code tenderloin and i am also doing self teaching through udemy and freecodecamp. 
   
   I am Highly dependable, determined, and dynamic professional with extensive experience in sales and engineering assistantance. Currently looking to a part of competitive team to gain experience an enhance my skills as a web developer.
 content:
@@ -54,7 +54,7 @@ content:
             url: modelmade5.github.io/projects
         quote: >
           This project includes the application of cascading style sheets.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           !--project description--
   - title: Experience 
     layout: list
@@ -66,7 +66,7 @@ content:
         caption: March 2022 - Present
         quote: >
           Learning web development basics as well as getting fimilar with high level UX/UI design concepts
-        description: 
+        description: |
             -	learned about basic elements of frontend web development.
             -	Created responsive, accessible, and beautiful layouts
             -	Created static HTML, CSS and javascript portfolio sites and landing pages.
@@ -76,7 +76,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        description:
+        description: |
                     - HTML5
                     -	CSS
                     -	Javascript
@@ -85,7 +85,7 @@ content:
                     -	Front end development
                     -	Gimp
       - layout: right
-        description:
+        description: |
                     -	Client Relationship Management
                     -	Website Creation
                     -	Website Maintenance
