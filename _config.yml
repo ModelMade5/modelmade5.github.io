@@ -7,9 +7,8 @@ version: 2
 
 # Personal info
 name: Holly Hatcher
-title: 
+title: Inspiring Web Developer
 email: hatcherparashar@gmail.com
-website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -37,8 +36,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Cat APP
+        link: modelmade5.github.io/projects/catapp.html
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
