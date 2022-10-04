@@ -139,22 +139,13 @@ content:
     content:
       - layout: left
         description: |
-                    - HTML5
-                    -	CSS
-                    -	Javascript
-                    -	Jquery
-                    -	Wordpress
+                    - HTML5                       • Client Relationship Management
+                    -	CSS                         • Website Creation
+                    -	Javascript                  • Website Maintenance
+                    -	Jquery                      • Drafting/Design
+                    -	Wordpress                   • Manual Drafting           
                     -	Front end development
-                    -	Gimp
-    content:
-      - layout: right
-        description: |
-                    -	Client Relationship Management
-                    -	Website Creation
-                    -	Website Maintenance
-                    -	Drafting/Design
-                    -	Manual Drafting
-                
+                    -	Gimp         
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
