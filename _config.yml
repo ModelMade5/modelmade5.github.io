@@ -116,7 +116,6 @@ content:
         sub_title: Direct Sales Rep
         caption: July 2020 – October 2021
         quote: >
-          Learning web development basics as well as getting fimilar with high level UX/UI design concepts
         description: | # this will include new lines to allow paragraphs
             -	Identify customer needs / wants utilizing sales skills.
             -	Attend daily sales / training meetings and coaching sessions
@@ -129,7 +128,6 @@ content:
         sub_title: Enginerring Assistant
         caption: January 2016 - July 2020
         quote: >
-          Learning web development basics as well as getting fimilar with high level UX/UI design concepts
         description: | # this will include new lines to allow paragraphs
             -	Assisted Resident Engineer in daily operations.
             -	Breaking down sections of pipe drawings into defined individual drafted pieces using Acorn software.
@@ -157,6 +155,7 @@ content:
         title: SHELTON COMMUNITY COLLEGE
         caption: 2014 - 2016
         sub_title: ASSOCIATES DEGREE IN DRAFTING
+        link: sheltonstate.edu
         quote: >
           Shelton State Community College is a public community college in Tuscaloosa, Alabama. Operated by the Alabama State Department of Postsecondary Education, Shelton is one of the largest two-year colleges in the state.
         description: | # this will include new lines to allow paragraphs
