@@ -78,14 +78,6 @@ content:
                     -	Wordpress
                     -	Front end development
                     -	Gimp
-    content:
-      - layout: right
-        description: |
-                    -	Client Relationship Management
-                    -	Website Creation
-                    -	Website Maintenance
-                    -	Drafting/Design
-                    -	Manual Drafting
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
