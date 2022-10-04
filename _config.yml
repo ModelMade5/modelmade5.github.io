@@ -21,7 +21,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Holly and I'm an aspiring web developer. I am going through a career transformation and while looking for alternate career i came across web development and instantly fell in love with it. I am currently enrolled in a coding bootcamp with code tenderloin and i am also doing self teaching through udemy and freecodecamp. 
   
-
   I am Highly dependable, determined, and dynamic professional with extensive experience in sales and engineering assistantance. Currently looking to a part of competitive team to gain experience an enhance my skills as a web developer.
 content:
   - title: Projects # Title for the section
@@ -82,6 +81,17 @@ content:
             icon: fab fa-github
         quote: >
           This was my 5th project. I learned the CSS box model by building a rothko painting
+        description: | # this will include new lines to allow paragraphs
+          description of the project
+      - layout: top-middle
+        title: Photo Gallary
+        link: modelmade5.github.io/projects/gallary.html
+        # link_text: Project Website
+        additional_links:
+          - title:  Photo Gallary
+            icon: fab fa-github
+        quote: >
+          This was my 6th project. I learned the usage of CSS flexbox by building a photo gallary
         description: | # this will include new lines to allow paragraphs
           description of the project     
   - title: Experience # Title for the section
