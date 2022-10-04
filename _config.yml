@@ -131,7 +131,7 @@ content:
         sub_title: Enginerring Assistant
         caption: January 2016 - July 2020
         description: | # this will include new lines to allow paragraphs
-              [this is my youtube video for Macbee](https://youtu.be/HvFs71SYcJk).
+            - A preview of my work at McAbee morning Luke play how are you good how are you[this is my youtube video for Macbee](https://youtu.be/HvFs71SYcJk).
             -	Assisted Resident Engineer in daily operations.
             -	Breaking down sections of pipe drawings into defined individual drafted pieces using Acorn software.
             -	Observed preconstruction meetings between engineers and contractors.
@@ -178,7 +178,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Alongside my interests in web development i also enjoy creating youtube content. 
+      - Alongside my interests in Web Development I also enjoy creating videos editing and adding them to youtube. 
       - I also like voice recording and providing my voice skills to record audio books.
       - I am a big believer of giving back to my community and in that pursuit i do a lot of voluenter work.
   - title: 
