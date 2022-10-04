@@ -28,6 +28,7 @@ linkedin_username: jameswgrant
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Hollyt and I'm an aspiring web developer. I am going through a career transformation and while looking for alternate career i came across web development and instantly fell in love with it. I am currently enrolled in a coding bootcamp with code tenderloin and i am also doing self teaching through udemy and freecodecamp. 
+  
   I am Highly dependable, determined, and dynamic professional with extensive experience in sales and engineering assistantance. Currently looking to a part of competitive team to gain experience an enhance my skills as a web developer.
 content:
   - title: Projects # Title for the section
@@ -43,7 +44,7 @@ content:
         quote: >
           This was my first project. I learned HTML basics while creating a layout for application on cats.
         description: | # this will include new lines to allow paragraphs
-          <!--project description-->
+          !--project description--
       - layout: top-middle
         title: Cafe Menu
         link: modelmade5.github.io/projects/cafemenu.html
@@ -54,7 +55,7 @@ content:
         quote: >
           This project includes the application of cascading style sheets.
         description: | # this will include new lines to allow paragraphs
-          <!--project description-->
+          !--project description--
   - title: Experience 
     layout: list
     content:
@@ -65,42 +66,56 @@ content:
         caption: March 2022 - Present
         quote: >
           Learning web development basics as well as getting fimilar with high level UX/UI design concepts
-        description: | # this will include new lines to allow paragraphs
+        description: |
             •	learned about basic elements of frontend web development.
             •	Created responsive, accessible, and beautiful layouts
             •	Created static HTML, CSS and javascript portfolio sites and landing pages.
             •	Learned about complex HTML forms with landing pages
             •	Learned about Javascript functions, and their scope.
-
-  - title: Education # Title for the section
+ - title: Skills
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        description:
+                    •	HTML5
+                    •	CSS
+                    •	Javascript
+                    •	Jquery
+                    •	Wordpress
+                    •	Front end development
+                    •	Gimp
+      - layout: right
+        description:
+                    •	Client Relationship Management
+                    •	Website Creation
+                    •	Website Maintenance
+                    •	Drafting/Design
+                    •	Manual Drafting
+  - title: Education 
+    layout: list 
+    content:
+      - layout: left
+        title: SHELTON COMMUNITY COLLEGE
+        caption: 2016 - 2018
+        sub_title: ASSOCIATES DEGREE IN DRAFTING
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Shelton State Community College is a public community college in Tuscaloosa, Alabama. Operated by the Alabama State Department of Postsecondary Education, Shelton is one of the largest two-year colleges in the state.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          During my time at Shelton I learnt most of my key skills as a drafter which ultimately landed my first job at MCBEE CONSTRUCTION. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in web development i also enjoy creating youtube content.
+      
+      I alsi like voice recording and providing my voice skills to record audio books as well as voicing cartoons.
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      I am a big believer of giving back to my community and in that pursuit i do a lot of voluenter work which involves
 
-# Footer
+
+
 footer_show_references: true
-# references_title: References on request (Override references text)
+
 
 # Build settings
 remote_theme: sproogen/resume-theme
