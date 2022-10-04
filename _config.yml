@@ -131,7 +131,7 @@ content:
         sub_title: Enginerring Assistant
         caption: January 2016 - July 2020
         description: | # this will include new lines to allow paragraphs
-            - A preview of my work at McAbee morning Luke play how are you good how are you[this is my youtube video for Macbee](https://youtu.be/HvFs71SYcJk).
+            - A preview of my what I did at McAbee[this is my youtube video for Macbee](https://youtu.be/HvFs71SYcJk).
             -	Assisted Resident Engineer in daily operations.
             -	Breaking down sections of pipe drawings into defined individual drafted pieces using Acorn software.
             -	Observed preconstruction meetings between engineers and contractors.
@@ -154,7 +154,7 @@ content:
                     -	Javascript                  
                     -	Jquery                      
                     -	Wordpress                              
-                    -	Front end development
+                    -	Front End Development<br>
                     -	Gimp
                     -	Client Relationship Management
                     -	Website Creation
