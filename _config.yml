@@ -141,8 +141,13 @@ content:
   - title: Skills
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        quote: >
+       - layout: left
+        title: 
+        caption: 
+        sub_title: 
+        link: 
+        quote: 
+        description: | # this will include new lines to allow paragraphs
                     - HTML5                    
                     -	CSS                         
                     -	Javascript                  
@@ -177,9 +182,9 @@ content:
       - I am a big believer of giving back to my community and in that pursuit i do a lot of voluenter work.
   - title:
     layout: list
-    content: 
-          - layout: top-middle # this will include new lines to allow paragraphs
-            image: images/landscape-trees.jpg
+    content: |
+    ![god](images/landscape-trees.jpg "god"){}
+
 
 # Footer
 footer_show_references: true
