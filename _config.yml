@@ -126,11 +126,12 @@ content:
             -	Strong interpersonal skills to build rapport with prospective and existing customers.
             -	Reporting to territory manager about sales and potential clients.
       - layout: left
-        title: MCBEE CONSTRUCTION
+        title: MCABEE CONSTRUCTION
         link: mcabeeinc.com
         sub_title: Enginerring Assistant
         caption: January 2016 - July 2020
         description: | # this will include new lines to allow paragraphs
+        [this is my youtube video for Macbee](https://youtu.be/HvFs71SYcJk).
             -	Assisted Resident Engineer in daily operations.
             -	Breaking down sections of pipe drawings into defined individual drafted pieces using Acorn software.
             -	Observed preconstruction meetings between engineers and contractors.
@@ -172,12 +173,12 @@ content:
         quote: >
           Shelton State Community College is a public community college in Tuscaloosa, Alabama. Operated by the Alabama State Department of Postsecondary Education, Shelton is one of the largest two-year colleges in the state.
         description: | # this will include new lines to allow paragraphs
-          During my time at Shelton I learnt most of my key skills as a drafter which ultimately landed my first job at MCBEE CONSTRUCTION. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at Shelton I learnt most of my key skills as a drafter which ultimately landed my first job at MCABEE CONSTRUCTION. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Alongside my interests in web development i also enjoy creating youtube content. [this is my youtube video for Macbee](https://youtu.be/HvFs71SYcJk).
+      - Alongside my interests in web development i also enjoy creating youtube content. 
       - I also like voice recording and providing my voice skills to record audio books.
       - I am a big believer of giving back to my community and in that pursuit i do a lot of voluenter work.
   - title: 
