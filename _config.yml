@@ -204,7 +204,7 @@ content:
          link: Link
          quote: Quote
          description: description| # this will include new lines to allow paragraphs
-              ![God](images/landscape-trees.jpg "God")
+              ![God](images/landscape-trees.jpg "The Lord directs the steps of the godly. He delights in every detail of their lives. Though they stumble, they will never fall, for the Lord holds them by the hand. Psalms 37:23–24")
 
 # Footer
 footer_show_references: true
