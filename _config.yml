@@ -203,7 +203,7 @@ content:
          link: 
          quote: 
          description: | # this will include new lines to allow paragraphs
-              ![god](images/landscape-trees.jpg "god")
+              ![God](images/landscape-trees.jpg "God")
 
 # Footer
 footer_show_references: true
