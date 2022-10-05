@@ -197,12 +197,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
        - layout: left
-         title: 
-         caption: 
-         sub_title: 
-         link: 
-         quote: 
-         description: | # this will include new lines to allow paragraphs
+         title: Title
+         caption: Caption
+         sub_title: Sub title
+         link: Link
+         quote: Quote
+         description: description| # this will include new lines to allow paragraphs
               ![God](images/landscape-trees.jpg "God")
 
 # Footer
